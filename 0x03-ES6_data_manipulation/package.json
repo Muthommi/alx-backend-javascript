@@ -1,0 +1,17 @@
+{
+  "name": "0x03-es6_data_manipulation",
+  "version": "1.0.0",
+  "description": "This is a readme file of the project ES6 data manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "test": "jest",
+    "full-test": "npm run lint && npm run test",
+    "lint": "eslint ."
+  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
